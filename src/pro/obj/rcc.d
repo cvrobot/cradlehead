@@ -1,0 +1,13 @@
+.\obj\rcc.o: ..\src\rcc.c
+.\obj\rcc.o: ..\src\rcc.h
+.\obj\rcc.o: ..\src\main.h
+.\obj\rcc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\rcc.o: ..\src\digital.h
+.\obj\rcc.o: ..\lib\stm32f10x_gpio.h
+.\obj\rcc.o: ..\lib\stm32f10x.h
+.\obj\rcc.o: ..\src\core_cm3.h
+.\obj\rcc.o: d:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\rcc.o: ..\lib\system_stm32f10x.h
+.\obj\rcc.o: ..\lib\stm32f10x_conf.h
+.\obj\rcc.o: ..\lib\stm32f10x_gpio.h
+.\obj\rcc.o: ..\lib\stm32f10x_rcc.h

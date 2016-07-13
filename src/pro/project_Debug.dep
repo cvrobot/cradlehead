@@ -1,0 +1,381 @@
+Dependencies for Project 'project', Target 'Debug': (DO NOT MODIFY !)
+F (..\lib\stm32f10x_adc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_adc.o --omf_browse .\obj\stm32f10x_adc.crf --depend .\obj\stm32f10x_adc.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_dbgmcu.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_dbgmcu.o --omf_browse .\obj\stm32f10x_dbgmcu.crf --depend .\obj\stm32f10x_dbgmcu.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_dbgmcu.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_dma.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_dma.o --omf_browse .\obj\stm32f10x_dma.crf --depend .\obj\stm32f10x_dma.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_dma.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_exti.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_exti.o --omf_browse .\obj\stm32f10x_exti.crf --depend .\obj\stm32f10x_exti.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_exti.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_flash.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_flash.o --omf_browse .\obj\stm32f10x_flash.crf --depend .\obj\stm32f10x_flash.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_flash.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_gpio.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_iwdg.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_iwdg.o --omf_browse .\obj\stm32f10x_iwdg.crf --depend .\obj\stm32f10x_iwdg.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_iwdg.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_pwr.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_pwr.o --omf_browse .\obj\stm32f10x_pwr.crf --depend .\obj\stm32f10x_pwr.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_pwr.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_rcc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_tim.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_tim.o --omf_browse .\obj\stm32f10x_tim.crf --depend .\obj\stm32f10x_tim.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_usart.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_usart.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\system_stm32f10x.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x.h)(0x52483CAC)()
+F (..\lib\stm32f10x_adc.h)(0x52483CAC)()
+F (..\lib\stm32f10x_conf.h)(0x52483CAC)()
+F (..\lib\stm32f10x_dbgmcu.h)(0x52483CAC)()
+F (..\lib\stm32f10x_dma.h)(0x52483CAC)()
+F (..\lib\stm32f10x_exti.h)(0x52483CAC)()
+F (..\lib\stm32f10x_flash.h)(0x52483CAC)()
+F (..\lib\stm32f10x_gpio.h)(0x52483CAC)()
+F (..\lib\stm32f10x_iwdg.h)(0x52483CAC)()
+F (..\lib\stm32f10x_pwr.h)(0x52483CAC)()
+F (..\lib\stm32f10x_rcc.h)(0x52483CAC)()
+F (..\lib\stm32f10x_tim.h)(0x52483CAC)()
+F (..\lib\stm32f10x_usart.h)(0x52483CAC)()
+F (..\lib\system_stm32f10x.h)(0x52483CAC)()
+F (..\lib\startup_stm32f10x_md.s)(0x52483CAC)(--cpu Cortex-M3 -g --apcs=interwork -I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x--list .\lst\startup_stm32f10x_md.lst --xref -o .\obj\startup_stm32f10x_md.o --depend .\obj\startup_stm32f10x_md.d)
+F (..\src\adc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\adc.o --omf_browse .\obj\adc.crf --depend .\obj\adc.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_dma.h)(0x52483CAC)
+F (..\src\binary.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\binary.o --omf_browse .\obj\binary.crf --depend .\obj\binary.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\binary.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\serial.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_usart.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+F (..\src\cli.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\cli.o --omf_browse .\obj\cli.crf --depend .\obj\cli.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\cli.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\getbuildnum.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\serial.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_usart.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\pwm.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\rcc.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (d:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+I (d:\Keil\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (d:\Keil\ARM\ARMCC\include\math.h)(0x51C7B744)
+F (..\src\config.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\config.o --omf_browse .\obj\config.crf --depend .\obj\config.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\pwm.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\serial.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_usart.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_flash.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\string.h)(0x51C7B744)
+I (d:\Keil\ARM\ARMCC\include\math.h)(0x51C7B744)
+F (..\src\digital.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\digital.o --omf_browse .\obj\digital.crf --depend .\obj\digital.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+F (..\src\fet.c)(0x53AFDA35)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\fet.o --omf_browse .\obj\fet.crf --depend .\obj\fet.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_dbgmcu.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_iwdg.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\math.h)(0x51C7B744)
+F (..\src\getbuildnum.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\getbuildnum.o --omf_browse .\obj\getbuildnum.crf --depend .\obj\getbuildnum.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\getbuildnum.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\buildnum.h)(0x52483CAC)
+F (..\src\main.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\rcc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\serial.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_usart.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\pwm.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\cli.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\ow.h)(0x52483CAC)
+F (..\src\misc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\src\ow.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\ow.o --omf_browse .\obj\ow.crf --depend .\obj\ow.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\ow.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\pwm.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\cli.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\string.h)(0x51C7B744)
+F (..\src\pwm.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\pwm.o --omf_browse .\obj\pwm.crf --depend .\obj\pwm.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\pwm.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\ow.h)(0x52483CAC)
+F (..\src\rcc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\rcc.o --omf_browse .\obj\rcc.crf --depend .\obj\rcc.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\rcc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\src\run.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\run.o --omf_browse .\obj\run.crf --depend .\obj\run.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\run.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\main.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\digital.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_adc.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\fet.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\pwm.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\cli.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\binary.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_exti.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_pwr.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_iwdg.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_dbgmcu.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\math.h)(0x51C7B744)
+F (..\src\serial.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\serial.o --omf_browse .\obj\serial.crf --depend .\obj\serial.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\serial.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_usart.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\config.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_dma.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (d:\Keil\ARM\ARMCC\include\stdlib.h)(0x51C7B744)
+F (..\src\timer.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I d:\Keil\ARM\RV31\INC-I d:\Keil\ARM\CMSIS\Include-I d:\Keil\ARM\Inc\ST\STM32F10x-DSTM32F10X_MD -o .\obj\timer.o --omf_browse .\obj\timer.crf --depend .\obj\timer.d)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\timer.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_tim.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\system_stm32f10x.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_conf.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (E:\Workspace\ESC32\Ref\esc32_keil-master\src\misc.h)(0x52483CAC)
+F (..\src\adc.h)(0x52483CAC)()
+F (..\src\binary.h)(0x52483CAC)()
+F (..\src\buildnum.h)(0x52483CAC)()
+F (..\src\cli.h)(0x52483CAC)()
+F (..\src\config.h)(0x52483CAC)()
+F (..\src\core_cm3.h)(0x52483CAC)()
+F (..\src\digital.h)(0x52483CAC)()
+F (..\src\fet.h)(0x52483CAC)()
+F (..\src\getbuildnum.h)(0x52483CAC)()
+F (..\src\main.h)(0x52483CAC)()
+F (..\src\misc.h)(0x52483CAC)()
+F (..\src\ow.h)(0x52483CAC)()
+F (..\src\pwm.h)(0x52483CAC)()
+F (..\src\rcc.h)(0x52483CAC)()
+F (..\src\run.h)(0x52483CAC)()
+F (..\src\serial.h)(0x52483CAC)()
+F (..\src\timer.h)(0x52483CAC)()

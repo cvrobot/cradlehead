@@ -1,0 +1,336 @@
+Dependencies for Project 'project', Target 'Debug': (DO NOT MODIFY !)
+F (..\lib\stm32f10x_adc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_adc.o --omf_browse .\obj\stm32f10x_adc.crf --depend .\obj\stm32f10x_adc.d)
+I (..\lib\stm32f10x_adc.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_dbgmcu.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_dbgmcu.o --omf_browse .\obj\stm32f10x_dbgmcu.crf --depend .\obj\stm32f10x_dbgmcu.d)
+I (..\lib\stm32f10x_dbgmcu.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_dma.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_dma.o --omf_browse .\obj\stm32f10x_dma.crf --depend .\obj\stm32f10x_dma.d)
+I (..\lib\stm32f10x_dma.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_exti.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_exti.o --omf_browse .\obj\stm32f10x_exti.crf --depend .\obj\stm32f10x_exti.d)
+I (..\lib\stm32f10x_exti.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_flash.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_flash.o --omf_browse .\obj\stm32f10x_flash.crf --depend .\obj\stm32f10x_flash.d)
+I (..\lib\stm32f10x_flash.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_gpio.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_gpio.o --omf_browse .\obj\stm32f10x_gpio.crf --depend .\obj\stm32f10x_gpio.d)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_iwdg.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_iwdg.o --omf_browse .\obj\stm32f10x_iwdg.crf --depend .\obj\stm32f10x_iwdg.d)
+I (..\lib\stm32f10x_iwdg.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_pwr.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_pwr.o --omf_browse .\obj\stm32f10x_pwr.crf --depend .\obj\stm32f10x_pwr.d)
+I (..\lib\stm32f10x_pwr.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_rcc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_rcc.o --omf_browse .\obj\stm32f10x_rcc.crf --depend .\obj\stm32f10x_rcc.d)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x_tim.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_tim.o --omf_browse .\obj\stm32f10x_tim.crf --depend .\obj\stm32f10x_tim.d)
+I (..\lib\stm32f10x_tim.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\stm32f10x_usart.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\stm32f10x_usart.o --omf_browse .\obj\stm32f10x_usart.crf --depend .\obj\stm32f10x_usart.d)
+I (..\lib\stm32f10x_usart.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\lib\system_stm32f10x.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\system_stm32f10x.o --omf_browse .\obj\system_stm32f10x.crf --depend .\obj\system_stm32f10x.d)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\lib\stm32f10x.h)(0x52483CAC)()
+F (..\lib\stm32f10x_adc.h)(0x52483CAC)()
+F (..\lib\stm32f10x_conf.h)(0x52483CAC)()
+F (..\lib\stm32f10x_dbgmcu.h)(0x52483CAC)()
+F (..\lib\stm32f10x_dma.h)(0x52483CAC)()
+F (..\lib\stm32f10x_exti.h)(0x52483CAC)()
+F (..\lib\stm32f10x_flash.h)(0x52483CAC)()
+F (..\lib\stm32f10x_gpio.h)(0x52483CAC)()
+F (..\lib\stm32f10x_iwdg.h)(0x52483CAC)()
+F (..\lib\stm32f10x_pwr.h)(0x52483CAC)()
+F (..\lib\stm32f10x_rcc.h)(0x52483CAC)()
+F (..\lib\stm32f10x_tim.h)(0x52483CAC)()
+F (..\lib\stm32f10x_usart.h)(0x52483CAC)()
+F (..\lib\system_stm32f10x.h)(0x52483CAC)()
+F (..\lib\startup_stm32f10x_md.s)(0x52483CAC)(--cpu Cortex-M3 -g --apcs=interwork -I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include--pd "__UVISION_VERSION SETA 515" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\lst\startup_stm32f10x_md.lst --xref -o .\obj\startup_stm32f10x_md.o --depend .\obj\startup_stm32f10x_md.d)
+F (..\src\cli.c)(0x577E456D)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\cli.o --omf_browse .\obj\cli.crf --depend .\obj\cli.d)
+I (..\src\cli.h)(0x577E457B)
+I (..\src\getbuildnum.h)(0x57727DE9)
+I (..\src\main.h)(0x577D11FC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (..\src\digital.h)(0x577E46B6)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\src\serial.h)(0x577E494F)
+I (..\src\run.h)(0x5780C057)
+I (..\src\misc.h)(0x52483CAC)
+I (..\src\config.h)(0x5780B998)
+I (..\src\rcc.h)(0x57727D76)
+I (d:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\math.h)(0x54C245B8)
+F (..\src\config.c)(0x577E462E)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\config.o --omf_browse .\obj\config.crf --depend .\obj\config.d)
+I (..\src\config.h)(0x5780B998)
+I (..\src\run.h)(0x5780C057)
+I (..\src\misc.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\src\serial.h)(0x577E494F)
+I (..\lib\stm32f10x_flash.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\math.h)(0x54C245B8)
+F (..\src\digital.c)(0x577E4687)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\digital.o --omf_browse .\obj\digital.crf --depend .\obj\digital.d)
+I (..\src\digital.h)(0x577E46B6)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C245B8)
+F (..\src\getbuildnum.c)(0x577CE6E5)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\getbuildnum.o --omf_browse .\obj\getbuildnum.crf --depend .\obj\getbuildnum.d)
+I (..\src\getbuildnum.h)(0x57727DE9)
+I (..\src\buildnum.h)(0x577D1106)
+F (..\src\main.cpp)(0x577E46D3)(--cpp -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (..\src\main.h)(0x577D11FC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (..\src\digital.h)(0x577E46B6)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\src\rcc.h)(0x57727D76)
+I (..\src\config.h)(0x5780B998)
+I (..\src\serial.h)(0x577E494F)
+I (..\src\run.h)(0x5780C057)
+I (..\src\misc.h)(0x52483CAC)
+I (..\src\cli.h)(0x577E457B)
+I (..\src\simplebgc.h)(0x5777713C)
+I (..\src\SBGC_lib/SBGC.h)(0x577E49CE)
+I (d:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (..\src\SBGC_lib/include/SBGC_command.h)(0x577E49D6)
+I (..\src\SBGC_lib/include/SBGC_rc.h)(0x577E49B5)
+I (..\src\SBGC_lib/include/SBGC_adj_vars.h)(0x577E49D5)
+I (..\src\SBGC_lib/include/SBGC_parser.h)(0x577E49D5)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (..\src\SBGC_lib/include/SBGC_cmd_helpers.h)(0x5780C369)
+I (..\src\simplewofl.h)(0x57777187)
+I (..\src\WOFL_lib/wofl.h)(0x57775414)
+I (..\src\WOFL_lib/include/wofl_cmd.h)(0x5780C515)
+I (..\src\WOFL_lib/include/wofl_paser.h)(0x5780C972)
+I (..\src\WOFL_lib/include/wofl_helper.h)(0x5780C48B)
+F (..\src\misc.c)(0x52483CAC)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\misc.o --omf_browse .\obj\misc.crf --depend .\obj\misc.d)
+I (..\src\misc.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+F (..\src\run.cpp)(0x5780BEF0)(--cpp -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\run.o --omf_browse .\obj\run.crf --depend .\obj\run.d)
+I (..\src\simplebgc.h)(0x5777713C)
+I (..\src\SBGC_lib/SBGC.h)(0x577E49CE)
+I (d:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\src\SBGC_lib/include/SBGC_command.h)(0x577E49D6)
+I (..\src\SBGC_lib/include/SBGC_rc.h)(0x577E49B5)
+I (..\src\SBGC_lib/include/SBGC_adj_vars.h)(0x577E49D5)
+I (..\src\SBGC_lib/include/SBGC_parser.h)(0x577E49D5)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (..\src\SBGC_lib/include/SBGC_cmd_helpers.h)(0x5780C369)
+I (..\src\simplewofl.h)(0x57777187)
+I (..\src\WOFL_lib/wofl.h)(0x57775414)
+I (..\src\WOFL_lib/include/wofl_cmd.h)(0x5780C515)
+I (..\src\WOFL_lib/include/wofl_paser.h)(0x5780C972)
+I (..\src\WOFL_lib/include/wofl_helper.h)(0x5780C48B)
+I (..\src\run.h)(0x5780C057)
+I (..\src\misc.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\src\main.h)(0x577D11FC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (..\src\digital.h)(0x577E46B6)
+I (..\src\cli.h)(0x577E457B)
+I (..\src\config.h)(0x5780B998)
+I (..\src\serial.h)(0x577E494F)
+I (..\lib\stm32f10x_exti.h)(0x52483CAC)
+I (..\lib\stm32f10x_pwr.h)(0x52483CAC)
+I (..\lib\stm32f10x_iwdg.h)(0x52483CAC)
+I (..\lib\stm32f10x_dbgmcu.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\math.h)(0x54C245B8)
+F (..\src\serial.c)(0x577E4942)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\serial.o --omf_browse .\obj\serial.crf --depend .\obj\serial.d)
+I (..\src\serial.h)(0x577E494F)
+I (..\src\config.h)(0x5780B998)
+I (..\src\misc.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x54C245B8)
+I (..\lib\stm32f10x_dma.h)(0x52483CAC)
+I (..\lib\stm32f10x_usart.h)(0x52483CAC)
+F (..\src\buildnum.h)(0x577D1106)()
+F (..\src\cli.h)(0x577E457B)()
+F (..\src\config.h)(0x5780B998)()
+F (..\src\core_cm3.h)(0x52483CAC)()
+F (..\src\digital.h)(0x577E46B6)()
+F (..\src\getbuildnum.h)(0x57727DE9)()
+F (..\src\main.h)(0x577D11FC)()
+F (..\src\misc.h)(0x52483CAC)()
+F (..\src\rcc.h)(0x57727D76)()
+F (..\src\run.h)(0x5780C057)()
+F (..\src\serial.h)(0x577E494F)()
+F (..\src\simplebgc.cpp)(0x577CFC70)(--cpp -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\simplebgc.o --omf_browse .\obj\simplebgc.crf --depend .\obj\simplebgc.d)
+I (..\src\serial.h)(0x577E494F)
+I (..\src\SBGC_lib/SBGC.h)(0x577E49CE)
+I (d:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\src\SBGC_lib/include/SBGC_command.h)(0x577E49D6)
+I (..\src\SBGC_lib/include/SBGC_rc.h)(0x577E49B5)
+I (..\src\SBGC_lib/include/SBGC_adj_vars.h)(0x577E49D5)
+I (..\src\SBGC_lib/include/SBGC_parser.h)(0x577E49D5)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (..\src\SBGC_lib/include/SBGC_cmd_helpers.h)(0x5780C369)
+I (..\src\simplebgc.h)(0x5777713C)
+I (..\src\WOFL_lib/wofl.h)(0x57775414)
+I (..\src\WOFL_lib/include/wofl_cmd.h)(0x5780C515)
+I (..\src\WOFL_lib/include/wofl_paser.h)(0x5780C972)
+I (..\src\WOFL_lib/include/wofl_helper.h)(0x5780C48B)
+I (..\src\simplewofl.h)(0x57777187)
+F (..\src\simplebgc.h)(0x5777713C)()
+F (..\src\simplewofl.cpp)(0x57850134)(--cpp -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\simplewofl.o --omf_browse .\obj\simplewofl.crf --depend .\obj\simplewofl.d)
+I (..\src\serial.h)(0x577E494F)
+I (..\src\WOFL_lib/wofl.h)(0x57775414)
+I (..\src\WOFL_lib/include/wofl_cmd.h)(0x5780C515)
+I (..\src\WOFL_lib/include/wofl_paser.h)(0x5780C972)
+I (d:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (..\src\WOFL_lib/include/wofl_helper.h)(0x5780C48B)
+I (..\src\simplewofl.h)(0x57777187)
+I (..\src\SBGC_lib/SBGC.h)(0x577E49CE)
+I (..\src\SBGC_lib/include/SBGC_command.h)(0x577E49D6)
+I (..\src\SBGC_lib/include/SBGC_rc.h)(0x577E49B5)
+I (..\src\SBGC_lib/include/SBGC_adj_vars.h)(0x577E49D5)
+I (..\src\SBGC_lib/include/SBGC_parser.h)(0x577E49D5)
+I (..\src\SBGC_lib/include/SBGC_cmd_helpers.h)(0x5780C369)
+I (..\src\simplebgc.h)(0x5777713C)
+F (..\src\simplewofl.h)(0x57777187)()
+F (..\src\rcc.c)(0x577E483C)(-c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\rcc.o --omf_browse .\obj\rcc.crf --depend .\obj\rcc.d)
+I (..\src\rcc.h)(0x57727D76)
+I (..\src\main.h)(0x577D11FC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x54C245B8)
+I (..\src\digital.h)(0x577E46B6)
+I (..\lib\stm32f10x_gpio.h)(0x52483CAC)
+I (..\lib\stm32f10x.h)(0x52483CAC)
+I (..\src\core_cm3.h)(0x52483CAC)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\lib\system_stm32f10x.h)(0x52483CAC)
+I (..\lib\stm32f10x_conf.h)(0x52483CAC)
+I (..\lib\stm32f10x_rcc.h)(0x52483CAC)
+F (..\src\SBGC_lib\SBGC_cmd_helpers.cpp)(0x5780C627)(--cpp -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\sbgc_cmd_helpers.o --omf_browse .\obj\sbgc_cmd_helpers.crf --depend .\obj\sbgc_cmd_helpers.d)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (..\src\SBGC_lib\SBGC.h)(0x577E49CE)
+I (d:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\src\SBGC_lib\include/SBGC_command.h)(0x577E49D6)
+I (..\src\SBGC_lib\include/SBGC_rc.h)(0x577E49B5)
+I (..\src\SBGC_lib\include/SBGC_adj_vars.h)(0x577E49D5)
+I (..\src\SBGC_lib\include/SBGC_parser.h)(0x577E49D5)
+I (..\src\SBGC_lib\include/SBGC_cmd_helpers.h)(0x5780C369)
+F (..\src\SBGC_lib\include\SBGC_rc.h)(0x577E49B5)()
+F (..\src\SBGC_lib\include\SBGC_parser.h)(0x577E49D5)()
+F (..\src\SBGC_lib\include\SBGC_command.h)(0x577E49D6)()
+F (..\src\SBGC_lib\include\SBGC_cmd_helpers.h)(0x5780C369)()
+F (..\src\SBGC_lib\include\SBGC_adj_vars.h)(0x577E49D5)()
+F (..\src\SBGC_lib\SBGC.h)(0x577E49CE)()
+F (..\src\wofl_lib\wofl_helper.cpp)(0x5784F6C6)(--cpp -c --cpu Cortex-M3 -g -O0 -Otime --apcs=interwork --split_sections -I..\src -I..\lib --gnu-I F:\work\wingoflights\tmp\esc32_keil-Insight\pro\RTE-I d:\Keil_v5\ARM\PACK\ARM\CMSIS\4.3.0\CMSIS\Include-I d:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\1.1.0\Device\Include-D__UVISION_VERSION="515" -D_RTE_ -DSTM32F10X_MD -DSTM32F10X_MD-o .\obj\wofl_helper.o --omf_browse .\obj\wofl_helper.crf --depend .\obj\wofl_helper.d)
+I (d:\Keil_v5\ARM\ARMCC\include\string.h)(0x54C245B8)
+I (..\src\wofl_lib\wofl.h)(0x57775414)
+I (..\src\wofl_lib\include/wofl_cmd.h)(0x5780C515)
+I (..\src\wofl_lib\include/wofl_paser.h)(0x5780C972)
+I (d:\Keil_v5\ARM\ARMCC\include\inttypes.h)(0x54C245B8)
+I (d:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+I (..\src\wofl_lib\include/wofl_helper.h)(0x5780C48B)
+F (..\src\wofl_lib\wofl.h)(0x57775414)()
+F (..\src\wofl_lib\include\wofl_cmd.h)(0x5780C515)()
+F (..\src\wofl_lib\include\wofl_helper.h)(0x5780C48B)()
+F (..\src\wofl_lib\include\wofl_paser.h)(0x5780C972)()
