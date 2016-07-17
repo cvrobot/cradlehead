@@ -195,8 +195,10 @@ void cliXCheck(int serial) {
 
 				if (cmd)
 					cmd->cmdFunc(cmd, cliBuf[serial] + strlen(cmd->name));
-				else
+				else{
 					serialXPrint(serial,"Command not found");
+					canSend(cliBuf[serial],cliBufIndex[serial],CAN_SEND_ID);
+				}
 
 			}
 
@@ -240,9 +242,9 @@ void cliXInit(int serial) {
     serialXPrint(serial,cliHome);
     serialXPrint(serial,cliClear);
     sprintf(version, "%s.%d,port:%d", VERSION, getBuildNumber(),(serial));
-
     cliXFuncVer(serial, 0, 0);
-    serialXPrint(serial,"\r\nCLI ready.\r\n");
+	sprintf(tempBuf, "\r\nCLI %d ready.\r\n",BOARD_TYPE_SELECT);
+    serialXPrint(serial,tempBuf);
 
     cliXPrompt(serial);
 }

@@ -3,6 +3,7 @@
 #include "run.h"
 #include "main.h"
 #include "cli.h"
+#include "can.h"
 #include "config.h"
 #include "serial.h"
 #include "misc.h"
@@ -92,7 +93,8 @@ void SysTick_Handler(void) {
 
     simplebgc_process_inqueue();//parse input from uart2 and send to uart3
     simplewofl_process_inqueue();//parse input from uart3 and send to uart2
-		cliCheck();    //ascii
+	canProcess();
+	cliCheck();    //ascii
 
     runMilis++;
 }

@@ -7,6 +7,7 @@
 #include "cli.h"
 #include "simplebgc.h"
 #include "simplewofl.h"
+#include "can.h"
 
 digitalPin *statusLed;
 
@@ -24,7 +25,7 @@ int main(void)
 
 	configInit();  // load default config
 	serialInit();  //serial init
-
+  canInit(CAN_FILTER_ID);
 	runInit();
 	cliInit();     //serial client for debug
 	simplebgc_init();//serial bor sbgc protocol
